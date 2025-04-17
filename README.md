@@ -20,6 +20,16 @@ Sales list management: Download the sales list of a certain month;
 Order Management: View all orders, view order details, delete orders, and filter orders by conditions;
 Announcement Management: Add announcements, Edit announcements, Delete announcements;
 
+Development environment
+Operating System: Windows 10
+Java: JDK 14.0.1
+Database: MySQL 8.0.27
+Database visualization management tool: Navicat for MySQL
+Development tool: eclipse
+Server: Apache Tomcat 8.5.75
+Front-end: HTML,CSS,JS
+Back-end basic framework: java,JSP+JavaBean+Servlet+DAO+Service;
+
 
 网上书城系统的设计与实现
 《网上书城》模型是典型的网上购物实践中最为普遍的电子商务企业对客户（B2C）模式，主要包括会员注册、订单管理、购物车、搜索、支付等基本功能。此外，本系统也将实现在线图书销售系统的后端管理，包括图书的添加、订单的处理等功能。
@@ -39,6 +49,16 @@ Announcement Management: Add announcements, Edit announcements, Delete announcem
 销售榜单管理：下载某月的销售榜单；
 订单管理：查看所有订单，查看订单详情，删除订单，按条件筛选订单；
 公告管理：添加公告、编辑公告、删除公告；
+
+开发环境
+操作系统：Windows 10；
+Java：JDK 14.0.1；
+数据库：MySQL 8.0.27；
+数据库可视化管理工具：Navicat for MySQL；
+开发工具：eclipse；
+服务器：Apache Tomcat 8.5.75；
+前端：HTML,CSS,JS；
+后端基础框架：java ,JSP+JavaBean+Servlet+DAO+Service；
 
 
 
