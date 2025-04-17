@@ -1,0 +1,137 @@
+@charset "UTF-8";
+/*home*/
+
+#login-container{
+    width: 100%;
+    height: 100%;
+}
+
+#login-middle::after{
+   
+        content: '';
+        display: block;
+        clear: both;
+    
+}
+#login-middle{
+    width: 100%; 
+    height: 80%;
+
+}
+
+.login-menu{
+    float: left;
+    width:15%;
+    height:500px;
+   
+  }
+#login-content{
+    float: left;
+    width: 85%;
+}
+/*
+#login-footer{
+	width:100%;
+	height:60px;
+	position:fixed;
+	bottom:0px;
+}*/
+/*top*/
+.lgtop-title{
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    background-color:#e1c8cb;
+    font-size: 30px;
+    font-weight: 500;
+    border-bottom: 4px solid #585872;
+    margin:0;
+}
+.lg-top{
+    background-color: #dee0ec;
+    height: 25px;   
+    padding-left: 10px;
+    
+}
+.lg-time{
+    line-height: 20px;
+    display:inline-block;
+}
+/*.exist{
+    margin-right: 0;
+    padding-right:0;
+    float:right;
+}*/
+.exist a{
+	text-decoration: none;
+    margin-right: 0;
+    padding-right:10px;
+    padding-top:2px;
+    float:right;
+    color: black;
+}
+.exist a:hover{
+	color:blue;
+}
+
+/*left*/
+.lg-left{
+	
+    padding-left:0px;
+    background-color: #d1d1d1;
+    text-align: center;
+    margin:0;
+    height: 100%;
+    
+}
+.lg-left li{
+    list-style: none;    
+	margin:0;
+}
+.lg-left a{	 
+	display: block;
+	padding:20px;
+    font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+.lg-left a:hover{
+    background-color: #f7d2ca;
+    color: black;
+}
+
+/*bottom*/
+.lg-bottom{
+	clear:both;
+    background-color:rgba(88, 88, 114, 0.8);
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 18px;
+    color: #d1d1d1;
+   
+}
+
+/*welcome*/
+
+.lg-welcome .wel-first{
+    background-color: #f3d7db;
+    width: 100%;
+    height: 24px;
+    text-align: center;
+    line-height: 24px;
+
+}
+.lg-welcome .success{
+    text-align: center;
+    height: 120px;
+    /*background-color: cornsilk;*/
+    padding-top:20px;
+}
+
+.fas{
+	color:#d1d1d1;
+}
+.fas:hover{
+	color:rgba(88, 88, 114, 0.8);
+}

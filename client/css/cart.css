@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+.cart-table,.total{
+    background-color: rgb(165, 201, 165);
+    width:100%;
+}
+
+#cart-middle{	
+	clear:both;
+    width: 90%;
+    padding:10px;
+    margin:0 auto;
+    background-color: cornsilk;
+    margin-bottom:20px;
+    text-align:center;
+    
+}
+.out-div{
+	
+	height:24px;
+	width:90%;
+	margin:1px auto;
+	padding-top:20px;
+	
+}
+.cart-topdiv{
+   float:right;
+	
+}
+
+.cart-topdiv a{
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;    
+    padding:0 8px; 
+}
+.cart-topdiv a:hover{
+    color: blue;
+}
+
+.total td{
+	float:right;
+}
+.carttable{
+	width:100%;
+}
+.infocontent{
+	width:100%;
+}
+
+
