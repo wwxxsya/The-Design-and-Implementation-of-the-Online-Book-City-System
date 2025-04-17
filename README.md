@@ -51,13 +51,21 @@ Back-end basic framework: java,JSP+JavaBean+Servlet+DAO+Service;
 公告管理：添加公告、编辑公告、删除公告；
 
 开发环境
+
 操作系统：Windows 10；
+
 Java：JDK 14.0.1；
+
 数据库：MySQL 8.0.27；
+
 数据库可视化管理工具：Navicat for MySQL；
+
 开发工具：eclipse；
+
 服务器：Apache Tomcat 8.5.75；
+
 前端：HTML,CSS,JS；
+
 后端基础框架：java ,JSP+JavaBean+Servlet+DAO+Service；
 
 
